@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    width: 1440px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+    border: 5px black;
+    align-items: center;
+    text-decoration: none;
+    box-sizing: border-box;
+    padding-left: 10px;
+    position: center;
+    text-decoration: none;
+    justify-content: space-around;
+    cursor:alias;
+}
+.nav_menu{
+    display: flex;
+    width: 245px;
+    height: 24px;
+    top: 18px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+    color: #505F98;
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
+    box-sizing: border-box;
+    text-decoration: none;
+
+
+    
+
+    
+
+
+}
+.menuItem {
+    width: 38px;
+    height: 24px;
+    top: 18px;
+    left: 165px;
+    gap: 50px;
+    opacity: 0px;
+    padding: 50px;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.menuItem a {
+    text-decoration: none;
+    cursor:alias;
+
+}
+.logo{
+    width: 79px;
+    height: 38px;
+    top: 12px;
+    left: 681px;
+    gap: 50px;
+    opacity: 0px;
+    color:#37447E ;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 38px;
+    position: center;
+    align-items: center;
+    text-decoration: none;
+    cursor:alias;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 38px;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+
+
+}
+.navBtn{
+    width: 160px;
+    height: 26px;
+    top: 18px;
+    left: 1115px;
+    gap: 0px;
+    opacity: 0px;
+    background: #111B47;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    box-sizing: border-box;
+    cursor:alias;
+    
+    
+}
+
+a{
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+nav button{
+    width: 160px;
+    height: 26px;
+    top: 18px;
+    left: 1115px;
+    gap: 0px;
+    opacity: 0px;
+    background: #111B47;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+
+}
